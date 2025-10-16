@@ -69,7 +69,7 @@ First of all start it with this video, just click on the thumbnail ૮ ˶ᵔ ᵕ
 </td>
 <td width="40%">
 
-You can also have fun with my UwU checker ₍^. .^₎⟆ only by cloning my repo to your computer.
+You can also have fun with my UwU tester ₍^. .^₎⟆ only by cloning my repo to your computer.
 
 If you want a standard boring main, just replace `UwU.c` with `main.c` in the push_swap source files in the `Makefile`
 
